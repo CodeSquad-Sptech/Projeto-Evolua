@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CodeSquad-Sptech/frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CodeSquad-Sptech/backend
+[submodule "DB"]
+	path = DB
+	url = https://github.com/CodeSquad-Sptech/DB
